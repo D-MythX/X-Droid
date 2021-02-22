@@ -9,6 +9,8 @@ pkg install python
 
 pkg install figlet
 
+pkg install toilet
+
 cd $home
 
 git clone https://github.com/D-MythX/X-Droid
